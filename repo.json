@@ -1,0 +1,31 @@
+{
+  "apps": [
+    {
+      "name": "Dos",
+      "bundleIdentifier": "com.cusricky.Dos",
+      "developerName": "Your Developer Name",
+      "subtitle": "A brief description or tagline for Dos",
+      "localizedDescription": "Detailed description about Dos, its features, and functionality.",
+      "iconURL": "https://example.com/path/to/dos_icon.png",
+      "titleImageURL": "https://example.com/path/to/dos_title_image.png",
+      "screenshotURLs": [
+        "https://example.com/path/to/screenshot1.png",
+        "https://example.com/path/to/screenshot2.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2023-12-13",
+          "localizedDescription": "Initial release of Dos.",
+          "downloadURL": "https://example.com/path/to/dos_v1.0.ipa",
+          "size": 5000000,  // Size in bytes
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ]
+}
