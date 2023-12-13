@@ -6,17 +6,17 @@
       "developerName": "Vavut",
       "subtitle": "A brief description or tagline for Dos",
       "localizedDescription": "Detailed description about Dos, its features, and functionality.",
-      "iconURL": "titleimage.jpg",
-      "titleImageURL": "titleimage.jpg",
+      "iconURL": "https://github.com/Vale933/Repo/blob/main/titleimage.jpg?raw=true",
+      "titleImageURL": "https://github.com/Vale933/Repo/blob/main/titleimage.jpg?raw=true",
       "screenshotURLs": [
-        "titleimage.jpg",
-        "titleimage.jpg"
+        "https://github.com/Vale933/Repo/blob/main/titleimage.jpg?raw=true",
+        "https://github.com/Vale933/Repo/blob/main/titleimage.jpg?raw=true"
       ],
       "versions": [
         {
-          "version": "1.0",
+          "version": "2.0",
           "date": "13-12-2023",
-          "localizedDescription": "Initial release of Dos. 3",
+          "localizedDescription": "Initial release of Dos. 4",
           "downloadURL": "https://github.com/Vale933/Repo/raw/main/Dos-1.0.ipa",
           "minOSVersion": "14.0"
         }
