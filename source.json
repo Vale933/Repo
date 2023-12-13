@@ -3,7 +3,7 @@
     {
       "name": "Dos",
       "bundleIdentifier": "com.cusricky.Dos",
-      "developerName": "Your Developer Name",
+      "developerName": "Vavut",
       "subtitle": "A brief description or tagline for Dos",
       "localizedDescription": "Detailed description about Dos, its features, and functionality.",
       "iconURL": "titleimage.jpg",
@@ -18,7 +18,6 @@
           "date": "2023-12-13",
           "localizedDescription": "Initial release of Dos.",
           "downloadURL": "Dos-v1.0.ipa",
-          "size": 5000000,  // Size in bytes
           "minOSVersion": "14.0"
         }
       ],
