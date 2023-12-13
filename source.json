@@ -4,19 +4,19 @@
       "name": "Dos",
       "bundleIdentifier": "com.cusricky.Dos",
       "developerName": "Vavut",
-      "subtitle": "A brief description or tagline for Dos",
+      "subtitle": "Dos is an appointment sceduler for IOS.",
       "localizedDescription": "Detailed description about Dos, its features, and functionality.",
       "iconURL": "https://github.com/Vale933/Repo/blob/main/DosIcon.png?raw=true",
-      "titleImageURL": "https://github.com/Vale933/Repo/blob/main/titleimage.jpg?raw=true",
+      "titleImageURL": "https://github.com/Vale933/Repo/blob/main/IMG_3372FCC1ED14-1.jpeg?raw=true",
       "screenshotURLs": [
-        "https://github.com/Vale933/Repo/blob/main/titleimage.jpg?raw=true",
-        "https://github.com/Vale933/Repo/blob/main/titleimage.jpg?raw=true"
+        "https://github.com/Vale933/Repo/blob/main/IMG_1323.PNG",
+        "https://github.com/Vale933/Repo/blob/main/IMG_1324.PNG?raw=true"
       ],
       "versions": [
         {
           "version": "1.0",
           "date": "2023-12-13",
-          "localizedDescription": "Initial release of Dos. 4",
+          "localizedDescription": "Initial release of Dos.",
           "downloadURL": "https://github.com/Vale933/Repo/raw/main/Dos-1.0.ipa",
           "minOSVersion": "14.0"
         }
