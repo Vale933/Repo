@@ -25,6 +25,32 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+        {
+      "name": "TrollApps+",
+      "bundleIdentifier": "org.resonance.store",
+      "developerName": "Vavut",
+      "subtitle": "TrollApps+ is a modified version of TrollApps",
+      "localizedDescription": "TrollApps+ is a modified version of TrollApps",
+      "iconURL": "https://github.com/Vale933/Repo/blob/main/DosIcon.png?raw=true",
+      "titleImageURL": "https://github.com/Vale933/Repo/blob/main/IMG_3372FCC1ED14-1.jpeg?raw=true",
+      "screenshotURLs": [
+        "https://github.com/Vale933/Repo/blob/main/IMG_1323.PNG",
+        "https://github.com/Vale933/Repo/blob/main/IMG_1324.PNG?raw=true"
+      ],
+      "versions": [
+        {
+          "version": "2.2",
+          "date": "2023-12-13",
+          "localizedDescription": "Initial release of Dos.",
+          "downloadURL": "https://github.com/Vale933/Repo/raw/main/Dos-1.0.ipa",
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ]
 }
